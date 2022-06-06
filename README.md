@@ -96,9 +96,9 @@ b. Guarde os dados dos clientes em um vetor e ao final exiba-os.
 npm install readline-sync
 
 ## Requisitos
-VSCode
-Node v14.19.3
-npm 6.14.17
+- VSCode
+- Node v14.19.3
+- npm 6.14.17
 
 ## Fonte
 
